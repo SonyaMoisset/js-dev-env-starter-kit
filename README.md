@@ -1,2 +1,2 @@
-# js-dev-env-starter-kit
+# Starter Kit
 JavaScript Development Environment Starter Kit
