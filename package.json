@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
+    "prestart": "node buildScripts/startMessage.js",
+    "start": "npm-run-all --parallel security-check open:src",
+    "open:src": "node buildScripts/srcServer.js",
+    "security-check": "nsp check"
   },
-  "author": "Cory House",
+  "author": "WR WebTeam",
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
