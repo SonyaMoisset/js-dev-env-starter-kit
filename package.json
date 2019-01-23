@@ -34,7 +34,7 @@
     "chalk": "2.4.2",
     "cheerio": "0.22.0",
     "compression": "1.7.3",
-    "cross-env": "3.2.4",
+    "cross-env": "5.2.0",
     "css-loader": "0.28.11",
     "eslint": "3.19.0",
     "eslint-plugin-import": "2.15.0",
