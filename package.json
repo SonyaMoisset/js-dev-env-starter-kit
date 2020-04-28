@@ -51,7 +51,7 @@
     "nsp": "3.2.1",
     "open": "7.0.0",
     "rimraf": "2.6.3",
-    "style-loader": "0.23.1",
+    "style-loader": "1.2.1",
     "webpack": "4.29.0",
     "webpack-dev-middleware": "3.5.1",
     "webpack-hot-middleware": "2.24.4",
