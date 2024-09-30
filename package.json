@@ -52,7 +52,7 @@
     "open": "10.0.3",
     "rimraf": "5.0.7",
     "style-loader": "3.3.1",
-    "webpack": "5.89.0",
+    "webpack": "5.95.0",
     "webpack-dev-middleware": "7.2.0",
     "webpack-hot-middleware": "2.26.0",
     "webpack-md5-hash": "0.0.6"
